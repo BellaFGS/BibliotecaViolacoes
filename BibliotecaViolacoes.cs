@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 //   SISTEMA DE BIBLIOTECA - VERSÃO COM VIOLAÇÕES SOLID
 //   Arquivo entregue intencionalmente com problemas de design.
 //   Sua tarefa: identificar, documentar e refatorar.
